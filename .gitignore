@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+.cache/
+reports/
+*.html
+.DS_Store
